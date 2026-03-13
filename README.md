@@ -6,8 +6,6 @@ I enjoy solving non-trivial problems in code and building interfaces that are bo
 Before moving into engineering, I worked in product management and design, which strongly influences how I think about UX and usability.
 
 ## 🛠 Technologies I work with
-
-### Frontend / Web
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
