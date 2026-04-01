@@ -19,6 +19,7 @@ Before moving into engineering, I worked in product management and design, which
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![GraphQL](https://img.shields.io/badge/graphql-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2300748F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 ### Testing
