@@ -1,10 +1,6 @@
 # 🌀 Diana Diaz
 
-I'm a product-minded full-stack developer building and shipping e-commerce platforms and B2B tools from the ground up.
-
-My background in product management and design continues to shape how I approach engineering. I focus on creating clean, scalable interfaces while also handling technical coordination, integrations, and delivery.
-
-Currently working on production e-commerce projects.
+I'm a product-minded full-stack developer. Currently working on production e-commerce projects.
 
 ## 🛠 Technologies I work with
 
