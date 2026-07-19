@@ -1,6 +1,6 @@
 # 🌀 Diana Diaz
 
-I'm a product-minded full-stack developer. Currently working on production e-commerce projects.
+Full-stack JavaScript developer. Currently working on production e-commerce projects.
 
 ## 🛠 Technologies I work with
 
